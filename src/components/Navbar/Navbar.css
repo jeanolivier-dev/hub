@@ -1,6 +1,8 @@
 .n-wrapper {
   background: rgba(255, 255, 255, 0.2);
   width: 100%;
+  position: absolute;
+  z-index: 999;
 }
 
 .n-container {
