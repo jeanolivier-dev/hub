@@ -109,5 +109,6 @@
     padding: 1rem 0rem;
     border-radius: 999px;
     color: var(--dark-bg);
+    cursor: pointer;
   }
 }
