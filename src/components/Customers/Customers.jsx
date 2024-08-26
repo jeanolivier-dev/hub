@@ -32,7 +32,6 @@ export default function Customers() {
               variants={titleVariants}
               className="title"
             >
-              {""}
               Proof makes increasing conversion simple
             </motion.span>
             <motion.span

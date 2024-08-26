@@ -57,3 +57,21 @@ export const features = [
     title: "Language Translation",
   },
 ];
+
+export const hitFeatures = [
+  {
+    icon: "/products/Frame-0.png",
+    title: "Be visible to like",
+    desc: "Strenghten your digital visibility in a univers where everyone is interested in traveling",
+  },
+  {
+    icon: "/products/Frame-1.png",
+    title: "Monitor Online",
+    desc: "The platform has multiple functionalities and key features. With our intelligent system",
+  },
+  {
+    icon: "/products/Frame-2.png",
+    title: "More Income",
+    desc: "Being on a digital platform is another sales channel added to strenghten your business",
+  },
+];
